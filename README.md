@@ -61,4 +61,34 @@ Visualisation globale des performances
 
 Ventes 2023 – Europe Ouest
 
+<img width="1096" height="656" alt="image" src="https://github.com/user-attachments/assets/00041281-a2f8-48bf-94f9-7ca2aebf2142" />
+
+
+🖱️ Fonctionnalités interactives
+
+Le fichier contient plusieurs boutons interactifs :
+
+🌐 Ouvrir Google
+
+📊 Accéder au tableau de bord
+
+📈 Voir les données traitées
+
+📧 Accéder aux emails
+
+🔙 Retour à la base de données
+
+<img width="1271" height="80" alt="image" src="https://github.com/user-attachments/assets/d776c7dc-d05f-4056-b3c4-1e0388fbb0e6" />
+
+
+
+🛠️ Technologies utilisées
+
+Microsoft Excel
+
+Tableaux croisés dynamiques
+
+Graphiques Excel
+
+Macros / boutons interactifs
 
